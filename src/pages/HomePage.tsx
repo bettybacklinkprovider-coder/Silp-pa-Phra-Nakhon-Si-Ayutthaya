@@ -51,7 +51,7 @@ export const HomePage: React.FC<HomePageProps> = ({
         {/* Hero Background Image with Measured Scrim */}
         <div className="absolute inset-0 z-0 overflow-hidden">
           <img
-            src="/src/assets/images/silppa_hotel_hero_1792750553330.jpg"
+            src="/images/silppa_hotel_hero_1792750553330.jpg"
             alt="Silp-pa Phra Nakhon Si Ayutthaya Boutique Hotel"
             className="w-full h-full object-cover object-center scale-105 transition-transform duration-1000"
             referrerPolicy="no-referrer"
@@ -259,7 +259,7 @@ export const HomePage: React.FC<HomePageProps> = ({
             <div className="lg:col-span-6 relative">
               <div className="relative rounded-2xl overflow-hidden shadow-2xl border border-[#E8E2D8]">
                 <img
-                  src="/src/assets/images/silppa_cafe_dining_1792750554774.jpg"
+                  src="/images/silppa_cafe_dining_1792750554774.jpg"
                   alt="Silp-pa Cafe and Dining in Ayutthaya"
                   className="w-full h-[440px] md:h-[500px] object-cover hover:scale-105 transition-transform duration-700"
                   referrerPolicy="no-referrer"

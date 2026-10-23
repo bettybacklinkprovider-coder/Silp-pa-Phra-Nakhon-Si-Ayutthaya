@@ -101,11 +101,11 @@ export const ROOMS_DATA: Room[] = [
     occupancy: "2 Guests",
     view: "Tropical Zen Courtyard",
     category: "deluxe",
-    image: "/src/assets/images/silppa_deluxe_room_1792750552939.jpg",
+    image: "/images/silppa_deluxe_room_1792750552939.jpg",
     gallery: [
-      "/src/assets/images/silppa_deluxe_room_1792750552939.jpg",
-      "/src/assets/images/silppa_heritage_suite_1792750554910.jpg",
-      "/src/assets/images/silppa_hotel_hero_1792750553330.jpg"
+      "/images/silppa_deluxe_room_1792750552939.jpg",
+      "/images/silppa_heritage_suite_1792750554910.jpg",
+      "/images/silppa_hotel_hero_1792750553330.jpg"
     ],
     features: [
       "Signature King Bed",
@@ -129,11 +129,11 @@ export const ROOMS_DATA: Room[] = [
     occupancy: "2-3 Guests",
     view: "UNESCO Heritage Horizon & Stupas",
     category: "suite",
-    image: "/src/assets/images/silppa_heritage_suite_1792750554910.jpg",
+    image: "/images/silppa_heritage_suite_1792750554910.jpg",
     gallery: [
-      "/src/assets/images/silppa_heritage_suite_1792750554910.jpg",
-      "/src/assets/images/silppa_hotel_hero_1792750553330.jpg",
-      "/src/assets/images/silppa_cafe_dining_1792750554774.jpg"
+      "/images/silppa_heritage_suite_1792750554910.jpg",
+      "/images/silppa_hotel_hero_1792750553330.jpg",
+      "/images/silppa_cafe_dining_1792750554774.jpg"
     ],
     features: [
       "Freestanding Natural Stone Soaking Tub",
@@ -157,11 +157,11 @@ export const ROOMS_DATA: Room[] = [
     occupancy: "3-4 Guests",
     view: "Water Terrace & Ancient Canal",
     category: "villa",
-    image: "/src/assets/images/silppa_hotel_hero_1792750553330.jpg",
+    image: "/images/silppa_hotel_hero_1792750553330.jpg",
     gallery: [
-      "/src/assets/images/silppa_hotel_hero_1792750553330.jpg",
-      "/src/assets/images/silppa_deluxe_room_1792750552939.jpg",
-      "/src/assets/images/silppa_heritage_suite_1792750554910.jpg"
+      "/images/silppa_hotel_hero_1792750553330.jpg",
+      "/images/silppa_deluxe_room_1792750552939.jpg",
+      "/images/silppa_heritage_suite_1792750554910.jpg"
     ],
     features: [
       "Direct Sunken Terrace over Water Pond",
@@ -185,11 +185,11 @@ export const ROOMS_DATA: Room[] = [
     occupancy: "2 Guests",
     view: "Sculpture Garden & Lotus Pond",
     category: "loft",
-    image: "/src/assets/images/silppa_cafe_dining_1792750554774.jpg",
+    image: "/images/silppa_cafe_dining_1792750554774.jpg",
     gallery: [
-      "/src/assets/images/silppa_cafe_dining_1792750554774.jpg",
-      "/src/assets/images/silppa_deluxe_room_1792750552939.jpg",
-      "/src/assets/images/silppa_hotel_hero_1792750553330.jpg"
+      "/images/silppa_cafe_dining_1792750554774.jpg",
+      "/images/silppa_deluxe_room_1792750552939.jpg",
+      "/images/silppa_hotel_hero_1792750553330.jpg"
     ],
     features: [
       "Curated Thai Artwork & Exhibition Notes",
@@ -214,7 +214,7 @@ export const SPECIAL_OFFERS: SpecialOffer[] = [
     discountPercent: 20,
     minStay: "2 Nights (Fri–Sun)",
     validity: "Valid through December 2026",
-    image: "/src/assets/images/silppa_hotel_hero_1792750553330.jpg",
+    image: "/images/silppa_hotel_hero_1792750553330.jpg",
     includedAmenities: [
       "2-Night stay in Deluxe Room or Grand Suite",
       "Daily Chef's Artisan Breakfast for Two",
@@ -236,7 +236,7 @@ export const SPECIAL_OFFERS: SpecialOffer[] = [
     discountPercent: 25,
     minStay: "Min. 5 Nights",
     validity: "Year-Round 2026",
-    image: "/src/assets/images/silppa_deluxe_room_1792750552939.jpg",
+    image: "/images/silppa_deluxe_room_1792750552939.jpg",
     includedAmenities: [
       "5+ Nights in any Room or Art Loft",
       "Daily Morning Breakfast Buffet & Specialty Pour-over",
@@ -258,7 +258,7 @@ export const SPECIAL_OFFERS: SpecialOffer[] = [
     discountPercent: 20,
     minStay: "2 Nights",
     validity: "Valid for couples year-round",
-    image: "/src/assets/images/silppa_heritage_suite_1792750554910.jpg",
+    image: "/images/silppa_heritage_suite_1792750554910.jpg",
     includedAmenities: [
       "2 Nights in the Silp-pa Grand Suite",
       "Aromatic Frangipani Stone Bath Setup",
@@ -280,7 +280,7 @@ export const SPECIAL_OFFERS: SpecialOffer[] = [
     discountPercent: 20,
     minStay: "2 Nights",
     validity: "School holidays & weekend dates",
-    image: "/src/assets/images/silppa_cafe_dining_1792750554774.jpg",
+    image: "/images/silppa_cafe_dining_1792750554774.jpg",
     includedAmenities: [
       "Adjoining Deluxe Rooms or 2-Story Heritage Villa",
       "Breakfast for up to 2 Adults & 2 Children",
@@ -302,7 +302,7 @@ export const SPECIAL_OFFERS: SpecialOffer[] = [
     discountPercent: 20,
     minStay: "1 Night or more",
     validity: "Sunday – Thursday stays",
-    image: "/src/assets/images/silppa_deluxe_room_1792750552939.jpg",
+    image: "/images/silppa_deluxe_room_1792750552939.jpg",
     includedAmenities: [
       "Accommodations in Art Loft or Deluxe Suite",
       "Ultra-Fast Dedicated 500Mbps Fiber Wi-Fi",
@@ -324,7 +324,7 @@ export const SPECIAL_OFFERS: SpecialOffer[] = [
     discountPercent: 20,
     minStay: "2 Nights",
     validity: "Seasonal festival dates",
-    image: "/src/assets/images/silppa_hotel_hero_1792750553330.jpg",
+    image: "/images/silppa_hotel_hero_1792750553330.jpg",
     includedAmenities: [
       "2-Night stay with festive festival welcome gift",
       "Handmade Krathong crafting workshop with Thai master",
